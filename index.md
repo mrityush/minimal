@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project 1
 
-Spring boot project
+[Spring boot project](https://github.com/mrityush/spring-boot-basics)
 
 ## Project 2
 
